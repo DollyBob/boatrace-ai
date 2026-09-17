@@ -1,6 +1,351 @@
 {
   "date": "2026-09-17",
-  "venue_count": 0,
-  "total_races": 0,
-  "venues": {}
+  "venue_count": 4,
+  "total_races": 48,
+  "venues": {
+    "戸田": {
+      "1R": {
+        "honmei": "1-2-3",
+        "chuan": "2-1-3",
+        "oana": "3-1-4",
+        "result": "",
+        "payout": 0
+      },
+      "2R": {
+        "honmei": "1-2-3",
+        "chuan": "2-1-3",
+        "oana": "3-1-4",
+        "result": "",
+        "payout": 0
+      },
+      "3R": {
+        "honmei": "1-2-3",
+        "chuan": "2-1-3",
+        "oana": "3-1-4",
+        "result": "",
+        "payout": 0
+      },
+      "4R": {
+        "honmei": "1-2-3",
+        "chuan": "2-1-3",
+        "oana": "3-1-4",
+        "result": "",
+        "payout": 0
+      },
+      "5R": {
+        "honmei": "1-2-3",
+        "chuan": "2-1-3",
+        "oana": "3-1-4",
+        "result": "",
+        "payout": 0
+      },
+      "6R": {
+        "honmei": "1-2-3",
+        "chuan": "2-1-3",
+        "oana": "3-1-4",
+        "result": "",
+        "payout": 0
+      },
+      "7R": {
+        "honmei": "1-2-3",
+        "chuan": "2-1-3",
+        "oana": "3-1-4",
+        "result": "",
+        "payout": 0
+      },
+      "8R": {
+        "honmei": "1-2-3",
+        "chuan": "2-1-3",
+        "oana": "3-1-4",
+        "result": "",
+        "payout": 0
+      },
+      "9R": {
+        "honmei": "1-2-3",
+        "chuan": "2-1-3",
+        "oana": "3-1-4",
+        "result": "",
+        "payout": 0
+      },
+      "10R": {
+        "honmei": "1-2-3",
+        "chuan": "2-1-3",
+        "oana": "3-1-4",
+        "result": "",
+        "payout": 0
+      },
+      "11R": {
+        "honmei": "1-2-3",
+        "chuan": "2-1-3",
+        "oana": "3-1-4",
+        "result": "",
+        "payout": 0
+      },
+      "12R": {
+        "honmei": "1-2-3",
+        "chuan": "2-1-3",
+        "oana": "3-1-4",
+        "result": "",
+        "payout": 0
+      }
+    },
+    "平和島": {
+      "1R": {
+        "honmei": "1-2-3",
+        "chuan": "2-1-3",
+        "oana": "3-1-4",
+        "result": "",
+        "payout": 0
+      },
+      "2R": {
+        "honmei": "1-2-3",
+        "chuan": "2-1-3",
+        "oana": "3-1-4",
+        "result": "",
+        "payout": 0
+      },
+      "3R": {
+        "honmei": "1-2-3",
+        "chuan": "2-1-3",
+        "oana": "3-1-4",
+        "result": "",
+        "payout": 0
+      },
+      "4R": {
+        "honmei": "1-2-3",
+        "chuan": "2-1-3",
+        "oana": "3-1-4",
+        "result": "",
+        "payout": 0
+      },
+      "5R": {
+        "honmei": "1-2-3",
+        "chuan": "2-1-3",
+        "oana": "3-1-4",
+        "result": "",
+        "payout": 0
+      },
+      "6R": {
+        "honmei": "1-2-3",
+        "chuan": "2-1-3",
+        "oana": "3-1-4",
+        "result": "",
+        "payout": 0
+      },
+      "7R": {
+        "honmei": "1-2-3",
+        "chuan": "2-1-3",
+        "oana": "3-1-4",
+        "result": "",
+        "payout": 0
+      },
+      "8R": {
+        "honmei": "1-2-3",
+        "chuan": "2-1-3",
+        "oana": "3-1-4",
+        "result": "",
+        "payout": 0
+      },
+      "9R": {
+        "honmei": "1-2-3",
+        "chuan": "2-1-3",
+        "oana": "3-1-4",
+        "result": "",
+        "payout": 0
+      },
+      "10R": {
+        "honmei": "1-2-3",
+        "chuan": "2-1-3",
+        "oana": "3-1-4",
+        "result": "",
+        "payout": 0
+      },
+      "11R": {
+        "honmei": "1-2-3",
+        "chuan": "2-1-3",
+        "oana": "3-1-4",
+        "result": "",
+        "payout": 0
+      },
+      "12R": {
+        "honmei": "1-2-3",
+        "chuan": "2-1-3",
+        "oana": "3-1-4",
+        "result": "",
+        "payout": 0
+      }
+    },
+    "住之江": {
+      "1R": {
+        "honmei": "1-2-3",
+        "chuan": "2-1-3",
+        "oana": "3-1-4",
+        "result": "",
+        "payout": 0
+      },
+      "2R": {
+        "honmei": "1-2-3",
+        "chuan": "2-1-3",
+        "oana": "3-1-4",
+        "result": "",
+        "payout": 0
+      },
+      "3R": {
+        "honmei": "1-2-3",
+        "chuan": "2-1-3",
+        "oana": "3-1-4",
+        "result": "",
+        "payout": 0
+      },
+      "4R": {
+        "honmei": "1-2-3",
+        "chuan": "2-1-3",
+        "oana": "3-1-4",
+        "result": "",
+        "payout": 0
+      },
+      "5R": {
+        "honmei": "1-2-3",
+        "chuan": "2-1-3",
+        "oana": "3-1-4",
+        "result": "",
+        "payout": 0
+      },
+      "6R": {
+        "honmei": "1-2-3",
+        "chuan": "2-1-3",
+        "oana": "3-1-4",
+        "result": "",
+        "payout": 0
+      },
+      "7R": {
+        "honmei": "1-2-3",
+        "chuan": "2-1-3",
+        "oana": "3-1-4",
+        "result": "",
+        "payout": 0
+      },
+      "8R": {
+        "honmei": "1-2-3",
+        "chuan": "2-1-3",
+        "oana": "3-1-4",
+        "result": "",
+        "payout": 0
+      },
+      "9R": {
+        "honmei": "1-2-3",
+        "chuan": "2-1-3",
+        "oana": "3-1-4",
+        "result": "",
+        "payout": 0
+      },
+      "10R": {
+        "honmei": "1-2-3",
+        "chuan": "2-1-3",
+        "oana": "3-1-4",
+        "result": "",
+        "payout": 0
+      },
+      "11R": {
+        "honmei": "1-2-3",
+        "chuan": "2-1-3",
+        "oana": "3-1-4",
+        "result": "",
+        "payout": 0
+      },
+      "12R": {
+        "honmei": "1-2-3",
+        "chuan": "2-1-3",
+        "oana": "3-1-4",
+        "result": "",
+        "payout": 0
+      }
+    },
+    "福岡": {
+      "1R": {
+        "honmei": "1-2-3",
+        "chuan": "2-1-3",
+        "oana": "3-1-4",
+        "result": "",
+        "payout": 0
+      },
+      "2R": {
+        "honmei": "1-2-3",
+        "chuan": "2-1-3",
+        "oana": "3-1-4",
+        "result": "",
+        "payout": 0
+      },
+      "3R": {
+        "honmei": "1-2-3",
+        "chuan": "2-1-3",
+        "oana": "3-1-4",
+        "result": "",
+        "payout": 0
+      },
+      "4R": {
+        "honmei": "1-2-3",
+        "chuan": "2-1-3",
+        "oana": "3-1-4",
+        "result": "",
+        "payout": 0
+      },
+      "5R": {
+        "honmei": "1-2-3",
+        "chuan": "2-1-3",
+        "oana": "3-1-4",
+        "result": "",
+        "payout": 0
+      },
+      "6R": {
+        "honmei": "1-2-3",
+        "chuan": "2-1-3",
+        "oana": "3-1-4",
+        "result": "",
+        "payout": 0
+      },
+      "7R": {
+        "honmei": "1-2-3",
+        "chuan": "2-1-3",
+        "oana": "3-1-4",
+        "result": "",
+        "payout": 0
+      },
+      "8R": {
+        "honmei": "1-2-3",
+        "chuan": "2-1-3",
+        "oana": "3-1-4",
+        "result": "",
+        "payout": 0
+      },
+      "9R": {
+        "honmei": "1-2-3",
+        "chuan": "2-1-3",
+        "oana": "3-1-4",
+        "result": "",
+        "payout": 0
+      },
+      "10R": {
+        "honmei": "1-2-3",
+        "chuan": "2-1-3",
+        "oana": "3-1-4",
+        "result": "",
+        "payout": 0
+      },
+      "11R": {
+        "honmei": "1-2-3",
+        "chuan": "2-1-3",
+        "oana": "3-1-4",
+        "result": "",
+        "payout": 0
+      },
+      "12R": {
+        "honmei": "1-2-3",
+        "chuan": "2-1-3",
+        "oana": "3-1-4",
+        "result": "",
+        "payout": 0
+      }
+    }
+  }
 }
